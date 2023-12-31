@@ -1,0 +1,55 @@
+{
+    "id": 8267,
+    "name": "7hnv3wr6sa5",
+    "symbol": "f2ld19ajwji",
+    "slug": "y5sw674ix8",
+    "cmc_rank": 3559,
+    "num_market_pairs": 5455,
+    "circulating_supply": 4334,
+    "total_supply": 2160,
+    "max_supply": 4748,
+    "infinite_supply": null,
+    "last_updated": "2023-12-30T16:44:46.825Z",
+    "date_added": "2023-12-30T16:44:46.825Z",
+    "tags": [
+        "ajkbf8mzkl4",
+        "wovl1nuljd",
+        "awamtek4ix9",
+        "o391wauez3",
+        "3j4407hsdej",
+        "n9mfe8epq7",
+        "2ibtdcvc6ju",
+        "bdrbc1cjkuj",
+        "s18a4icldnk",
+        "k8vu81w9ym9"
+    ],
+    "platform": null,
+    "self_reported_circulating_supply": null,
+    "self_reported_market_cap": null,
+    "quote": {
+        "USD": {
+            "price": 0.019168313781335433,
+            "volume_24h": 9039,
+            "volume_change_24h": 0.3555513287517771,
+            "percent_change_1h": 0.6933445991379981,
+            "percent_change_24h": 0.5009152191959079,
+            "percent_change_7d": 0.7473390764015968,
+            "market_cap": 0.4399608745211394,
+            "market_cap_dominance": 6333,
+            "fully_diluted_market_cap": 0.5497564516235625,
+            "last_updated": "2023-12-30T16:44:46.825Z"
+        },
+        "BTC": {
+            "price": 2380,
+            "volume_24h": 6388,
+            "volume_change_24h": null,
+            "percent_change_1h": null,
+            "percent_change_24h": null,
+            "percent_change_7d": null,
+            "market_cap": 9601,
+            "market_cap_dominance": 4409,
+            "fully_diluted_market_cap": 0.25261995453200536,
+            "last_updated": "2023-12-30T16:44:46.825Z"
+        }
+    }
+}
