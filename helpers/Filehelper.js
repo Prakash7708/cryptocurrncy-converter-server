@@ -30,3 +30,34 @@
 // const upload = multer({storage: storage, fileFilter: filefilter});
 
 // module.exports = {upload}
+
+
+
+
+ // const { sourceCrypto, amount, targetCurrency } = req.body;
+
+
+        // const response = await axios.get(
+        //     'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest',
+        //     {
+        //       headers: {
+        //         'X-CMC_PRO_API_KEY':  `${APIKEY}`,
+        //       },
+        //     }
+        //   );
+
+        //  // console.log(response.data.data[0])
+      
+        //   const exchangeRate = response.data.data.find(
+        //     (crypto) => crypto.symbol === sourceCrypto
+        //   )?.quote[targetCurrency]?.price;
+
+        // // console.log(exchangeRate)
+        //   if (!exchangeRate) {
+        //     res.status(404).json({ error: 'Exchange rate not found' });
+        //     return;
+        //   }
+      
+        //   const convertedAmount = amount * exchangeRate;
+        //   //console.log(convertedAmount)
+        //    res.status(200).json({convertedAmount})
